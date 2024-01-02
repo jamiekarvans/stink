@@ -60,6 +60,10 @@ class ChromiumConfig:
         {
             "name": "Exodus",
             "folders": ["aholpfdialjgjfhomihkjbmgjidlcdno"]
+        },
+        {
+            "name": "Authenticator",
+            "folders": ["bhghoamapcdpbohphigoooaddinpkbai"]
         }
     ]
 
